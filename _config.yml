@@ -465,16 +465,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 />
                 <script>
                 function initSakanaWidget() {
-                  const mizuno = SakanaWidget.getCharacter('takina');
-                  mizuno.image = `https://mizuno-ai.wu-kan.cn/pixiv/75805052_p0.webp`;
-                  SakanaWidget.registerCharacter('mizuno', mizuno);
+                  const hcnone = SakanaWidget.getCharacter('takina');
+                  hcnone.image = `https://ptyhokkaido.github.io/assets/images/2097966_hcnone_good-job.png`;
+                  SakanaWidget.registerCharacter('hcnone', hcnone);
                   let sakana = document.createElement("div");
                   sakana.style.bottom = "0";
                   sakana.style.right = "0";
                   sakana.style.zIndex = "1";
                   sakana.style.position = "fixed";
                   document.body.insertAdjacentElement("beforeend", sakana);
-                  new SakanaWidget({ character: 'mizuno' }).mount(sakana);
+                  new SakanaWidget({ character: 'hcnone' }).mount(sakana);
                 }
                 </script>
                 <script
