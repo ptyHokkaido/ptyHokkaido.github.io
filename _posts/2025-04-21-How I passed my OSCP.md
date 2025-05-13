@@ -20,4 +20,6 @@ After all, I had a passing score of 80/100, it was a great journey where I feel 
 
 Take away from this if you're giving it a try, keep it simple and remember, its an entry certification even if people say its insanely hard!! also please dont use their report template as it is, just copy and paste whatever you need from them and make a brand new document.
 
+
+
 ![oscp-email.png](https://ptyhokkaido.github.io/assets/images/oscp-email.png)
